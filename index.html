@@ -1,0 +1,43 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+---
+<div id="search-container">
+    <div style="height: 30px;margin-bottom: 10px;border: 1px solid #ccc;border-radius: 5px;padding: 5px">
+       <input style="width: 70%;border: none;padding: 5px 10px;" type="text" id="search-input" placeholder="Enter the keywords!">
+    </div>
+    <div id="results-container"></div>
+</div>
+
+<div>
+    <span class="heading">Point Table</span>
+</div>
+<div class="table">
+<table>
+    {% for row in site.data.livepoints %}
+      {% if forloop.first %}
+      <tr>
+        {% for pair in row %}
+          <th>{{ pair[0] }}</th>
+        {% endfor %}
+      </tr>
+      {% endif %}
+  
+      {% tablerow pair in row %}
+        {{ pair[1] }}
+      {% endtablerow %}
+    {% endfor %}
+</table>
+</div>
+  <script src="https://d33wubrfki0l68.cloudfront.net/js/397569641af206a7e078cbf700061755b1a9648c/dist/js/search-script.js" type="text/javascript"></script>
+  <script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      searchResultTemplate: '<div style="display: block;background: #f8f8f8;margin: 5px auto;padding: 10px;border-radius: 5px;border: 1px solid #ececec;"><span style="display: block"><b>Name:</b> {title}</span><span style="display: block"><b>Position:</b> {position}</span><span style="display: block"><b>Batch:</b> {batch}</span><span style="display: block"><b>Event Name:</b> {event}</span></div>'
+    })
+    </script>
+    

@@ -1,0 +1,15 @@
+---
+---
+[
+  {% for row in site.data.aaroham %}
+    {
+
+      "title"    : "{{ row['NAME'] }}",
+      "event"    : "{{ row['EVENT'] }}",
+      "position"      : "{{ row['POSITION'] }}",
+      "batch"      : "{{ row['BATCH'] }}"
+
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
