@@ -36,7 +36,7 @@ layout: page
     SimpleJekyllSearch({
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
-      json: '{{ site.baseurl }}/search.json',
+      json: '/search.json',
       searchResultTemplate: '<div style="display: block;background: #f8f8f8;margin: 5px auto;padding: 10px;border-radius: 5px;border: 1px solid #ececec;"><span style="display: block"><b>Name:</b> {title}</span><span style="display: block"><b>Position:</b> {position}</span><span style="display: block"><b>Batch:</b> {batch}</span><span style="display: block"><b>Event Name:</b> {event}</span></div>'
     })
     </script>
