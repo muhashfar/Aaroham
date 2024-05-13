@@ -188,6 +188,7 @@ pre {
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
+    margin: 10px;
   }
 }
 
@@ -212,7 +213,7 @@ pre {
     width: 16px;
     height: 16px;
     display: inline-block;
-    fill: #{$grey-color};
+    fill: #fff;
     padding-right: 5px;
     vertical-align: text-top;
 }
@@ -232,23 +233,23 @@ table {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
-  color: lighten($text-color, 18%);
+  color: #54a3a0;
   border-collapse: collapse;
-  border: 1px solid $grey-color-light;
+  border: 1px solid #54a3a0;
   tr {
     &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
+      background-color: #cee4e31a;
     }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: lighten($grey-color-light, 3%);
-    border: 1px solid darken($grey-color-light, 4%);
-    border-bottom-color: darken($grey-color-light, 12%);
+    background-color: #62aaa74d;
+    border: 1px solid #4fa3a0;
+    border-bottom: 2px solid #21615f;
   }
   td {
-    border: 1px solid $grey-color-light;
+    border: 1px solid #54a3a0;
   }
 }

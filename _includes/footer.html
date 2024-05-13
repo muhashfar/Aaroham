@@ -1,13 +1,13 @@
-<footer class="site-footer h-card">
+<footer style="background: url('{{ site.baseurl }}/assets/bg.jpg');background-position: center;background-size: cover;" class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
+  <div class="wrapper" style="background: rgba(255, 255, 255, 0.2);border-radius: 8px;box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);backdrop-filter: blur(3.4px);border: 1px solid rgba(255, 255, 255, 0.3);">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <img style="margin: 10px auto; height: 45px;display: block;align-content: center;" src="{{ site.baseurl }}/assets/logo.png">
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
+        <ul class="contact-list" style="color: #fff;">
           <li class="p-name">
             {%- if site.author -%}
               {{ site.author | escape }}
@@ -22,10 +22,14 @@
       </div>
 
       <div class="footer-col footer-col-2">
+        <span style="display: block;color: #fff;font-weight: 600;">Social Links</span>
         {%- include social.html -%}
+        <span style="display: block;color: #fff;font-weight: 600;">Useful Links</span>
+        <a href="{{ site.baseurl }}/about/" style="display: block;">About</a>
+        <a href="{{ site.baseurl }}/results/" style="display: block;">Results</a>
       </div>
 
-      <div class="footer-col footer-col-3">
+      <div style="color: #fff;" class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
       </div>
     </div>
