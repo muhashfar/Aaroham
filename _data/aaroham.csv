@@ -1,10 +1,55 @@
-"Timestamp","EVENT","NAME","POSITION","BATCH"
-"2024/05/13 7:34:23 am GMT+5:30","Short Story (HINDI)","SAKSHAM","1","DHRUVA"
-"2024/05/13 7:34:40 am GMT+5:30","Short Story (HINDI)","ARCHITA","2","RUDHRA"
-"2024/05/13 7:35:11 am GMT+5:30","Short Story (HINDI)","HIMANSHI","3","EKATHRA"
-"2024/05/13 7:35:36 am GMT+5:30","Essay (HINDI)","AANCHAL","1","EKATHRA"
-"2024/05/13 7:35:48 am GMT+5:30","Essay (HINDI)","AKSHAYA","2","ATHARVA"
-"2024/05/13 7:36:04 am GMT+5:30","Essay (HINDI)","ARCHITA","3","RUDHRA"
-"2024/05/13 7:36:38 am GMT+5:30","Essay (HINDI)","SAKSHAM","3","DHRUVA"
-"2024/05/13 7:37:31 am GMT+5:30","Short story (ENGLISH)","ANJANA PRADEEP","1","RUDHRA"
-"2024/05/13 7:37:46 am GMT+5:30","Short story (ENGLISH)","PRIYANJALI","2","EKATHRA"
+Timestamp,EVENT,CATEGORY,NAME,POSITION,BATCH,POINT
+16/05/2024 14:28:08,Soap carving,Fine arts (സർഗ്ഗം),SREELAKSHMI V,1,RUDHRA,5
+16/05/2024 14:28:31,Soap carving,Fine arts (സർഗ്ഗം),ABDHU,2,EKATHRA,3
+16/05/2024 14:29:22,Soap carving,Fine arts (സർഗ്ഗം),GOURI NANDHANA P,3,ATHARVA,1
+16/05/2024 14:29:41,Rangoli,Fine arts (സർഗ്ഗം),,1,RUDHRA,10
+16/05/2024 14:29:59,Rangoli,Fine arts (സർഗ്ഗം),,2,DHRUVA,6
+16/05/2024 14:30:12,Rangoli,Fine arts (സർഗ്ഗം),,3,ATHARVA,3
+16/05/2024 14:30:41,Short story (മലയാളം),Literary (കൈപ്പട),KRISHNENDU,1,RUDHRA,5
+16/05/2024 14:31:10,Short story (മലയാളം),Literary (കൈപ്പട),ARJUN V,2,DHRUVA,3
+16/05/2024 14:31:37,Short story (മലയാളം),Literary (കൈപ്പട),ANANYA,3,ATHARVA,1
+16/05/2024 14:36:31,Caption this,Literary (കൈപ്പട),ARJUN V,1,DHRUVA,5
+16/05/2024 14:37:10,Caption this,Literary (കൈപ്പട),ANJANA PRADEEP,2,RUDHRA,3
+16/05/2024 14:37:41,Caption this,Literary (കൈപ്പട),KRISHNA,3,EKATHRA,1
+16/05/2024 14:38:17,Embroidary,Fine arts (സർഗ്ഗം),RAESA,1,RUDHRA,5
+16/05/2024 14:38:22,Essay (മലയാളം),Literary (കൈപ്പട),MEENU,1,DHRUVA,5
+16/05/2024 14:39:24,Essay (മലയാളം),Literary (കൈപ്പട),NANDANA RAJESH,2,EKATHRA,3
+16/05/2024 14:39:56,Essay (മലയാളം),Literary (കൈപ്പട),MEENAKSHY A R,3,ATHARVA,1
+16/05/2024 14:41:27,Versification (മലയാളം),Literary (കൈപ്പട),MEENU,1,DHRUVA,4
+16/05/2024 14:42:10,Versification (മലയാളം),Literary (കൈപ്പട),KRISHNENDU,1,RUDHRA,4
+16/05/2024 14:42:20,Haiku (മലയാളം),Literary (കൈപ്പട),ARJUN V,1,DHRUVA,5
+16/05/2024 14:42:40,Versification (മലയാളം),Literary (കൈപ്പട),MALAVIKA,2,ATHARVA,1
+16/05/2024 14:43:19,Versification (മലയാളം),Literary (കൈപ്പട),VINAYA,3,EKATHRA,0
+16/05/2024 14:43:47,Versification (عربي),Literary (കൈപ്പട),UNAIS,1,RUDHRA,5
+16/05/2024 14:44:27,Haiku (മലയാളം),Literary (കൈപ്പട),KRISHNENDU,2,RUDHRA,3
+16/05/2024 14:44:29,Versification (عربي),Literary (കൈപ്പട),ANJALY,2,DHRUVA,3
+16/05/2024 14:51:01,Haiku (മലയാളം),Literary (കൈപ്പട),BHADRA,3,EKATHRA,1
+16/05/2024 14:57:07,Versification (عربي),Literary (കൈപ്പട),ISHA,3,EKATHRA,1
+16/05/2024 14:58:17,Short story (عربي),Literary (കൈപ്പട),UNAIS,1,RUDHRA,5
+16/05/2024 14:59:05,Short story (عربي),Literary (കൈപ്പട),NIDHA,2,ATHARVA,3
+16/05/2024 15:00:49,Essay (عربي),Literary (കൈപ്പട),UNAIS,1,RUDHRA,5
+16/05/2024 15:01:20,Essay (عربي),Literary (കൈപ്പട),NIDHA,2,ATHARVA,3
+16/05/2024 15:02:01,Essay (عربي),Literary (കൈപ്പട),ISHA,3,EKATHRA,1
+16/05/2024 15:02:42,Versification (English),Literary (കൈപ്പട),NAMRATA,1,DHRUVA,5
+16/05/2024 15:03:28,Versification (English),Literary (കൈപ്പട),ABDHU,2,EKATHRA,3
+16/05/2024 15:04:47,Versification (English),Literary (കൈപ്പട),ANJANA RAJU,3,RUDHRA,0.5
+16/05/2024 15:05:28,Versification (English),Literary (കൈപ്പട),AKSHAYA,3,ATHARVA,0.5
+16/05/2024 16:23:13,Movie review (മലയാളം),Literary (കൈപ്പട),KRISHNENDU,1,RUDHRA,5
+16/05/2024 16:23:41,Movie review (മലയാളം),Literary (കൈപ്പട),MEENAKSHY AR,2,ATHARVA,3
+16/05/2024 16:24:08,Movie review (മലയാളം),Literary (കൈപ്പട),ADITHYA S NAIR,3,EKATHRA,1
+16/05/2024 16:25:22,Movie review (English),Literary (കൈപ്പട),NANDANA SREEKUMAR,1,ATHARVA,5
+16/05/2024 16:25:45,Movie review (English),Literary (കൈപ്പട),ANJALY,2,DHRUVA,3
+16/05/2024 16:26:11,Movie review (English),Literary (കൈപ്പട),ANJANA PRADEEP,3,RUDHRA,1
+16/05/2024 16:27:07,Essay (हिंदी),Literary (കൈപ്പട),AANCHAL,1,EKATHRA,5
+16/05/2024 16:27:27,Essay (हिंदी),Literary (കൈപ്പട),AKSHAYA,2,ATHARVA,3
+16/05/2024 16:27:54,Essay (हिंदी),Literary (കൈപ്പട),ARCHITA,3,RUDHRA,0.5
+16/05/2024 16:28:14,Essay (हिंदी),Literary (കൈപ്പട),SAKSHAM,3,DHRUVA,0.5
+16/05/2024 16:29:01,Short Story (हिंदी),Literary (കൈപ്പട),SAKSHAM ,1,DHRUVA,5
+16/05/2024 16:29:25,Short Story (हिंदी),Literary (കൈപ്പട),ARCHITA,2,RUDHRA,3
+16/05/2024 16:29:50,Short Story (हिंदी),Literary (കൈപ്പട),HIMANSHI,3,EKATHRA,1
+16/05/2024 17:21:39,Embroidary,Fine arts (സർഗ്ഗം),NASRIN,2,EKATHRA,3
+16/05/2024 17:22:30,Embroidary,Fine arts (സർഗ്ഗം),RITHIKA,3,ATHARVA,1
+16/05/2024 17:25:31,Short story (English),Literary (കൈപ്പട),ANJANA PRADEEP,1,RUDHRA,5
+16/05/2024 17:25:53,Short story (English),Literary (കൈപ്പട),PRIYANJALI,2,EKATHRA,3
+16/05/2024 17:26:12,Short story (English),Literary (കൈപ്പട),NAMRATA,3,DHRUVA,1
+16/05/2024 17:58:40,Short story (عربي),Literary (കൈപ്പട),ANJALY,3,DHRUVA,1
