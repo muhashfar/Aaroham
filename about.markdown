@@ -4,4 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Navodhan 23'24 presents interbatch arts named "Aaroham" aired on May 8. This is the official website of aaroham interbatch arts 2024.
+ഗോകുലം ഇനി സാക്ഷിയാകുന്നത് കലകളുടെ മാറ്റുരയ്ക്കലിനാണ്. കനലെരിയുന്ന ചിന്തകളും താളാത്മകമായ നൃത്തസംഗീതങ്ങളും ക്രിയാത്മകതയുടെ മായാജാലങ്ങളും അരങ്ങേറുകയാണ്.
+ഇനി അവരോഹണങ്ങളില്ല.
+
+നവോത്ഥാൻ 23-24 അവതരിപ്പിക്കുന്നു 'ആരോഹം'
