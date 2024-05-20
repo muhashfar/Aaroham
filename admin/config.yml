@@ -9,7 +9,7 @@ site_url: https://eroyx.tk
 display_url: https://eroyx.tk
 logo_url: https://aaroham.netlify.app/assets/logo.png
 
-media_folder: "assets/images"
+media_folder: "assets"
 collections:
   - label: "Global Site Settings"
     name: "site_config"
@@ -69,8 +69,9 @@ collections:
           - label: "Upload Rule Book"
             name: "url_rulebook"
             widget: "file"
+            media_folder: "assets/rule_book"
             media_library:
               config:
                 allow_multiple: false
                 choose_url: true
-                media_folder: "assets/rule_book"
+                
