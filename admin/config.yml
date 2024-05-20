@@ -5,11 +5,9 @@ backend:
 # when using the default proxy server port
 local_backend: true
 
-site_url: https://eroyx.tk
-display_url: https://eroyx.tk
 logo_url: https://aaroham.netlify.app/assets/logo.png
 
-media_folder: "assets"
+media_folder: "uploads"
 collections:
   - label: "Global Site Settings"
     name: "site_config"
@@ -38,12 +36,12 @@ collections:
             hint: "This keywords will be appeared on search engines."
       - label: "Graphic resources"
         name: "graphic_resources"
-        file: "data/_graphicresources.yml"
+        file: "_data/resources.yml"
         fields:
           - label: "Logo"
             name: "logo"
             widget: "image"
-            media_folder: "assets/images"
+            media_folder: /uploads/images
             choose_url: true
             media_library:
               config:
@@ -53,8 +51,8 @@ collections:
             hint: "Ex. My Website"
           - label: "Favicon"
             name: "favicon"
-            widget: "image"
-            media_folder: "assets/images"
+            widget: "file"
+            media_folder: /uploads/images
             choose_url: true
             media_library:
               config:
@@ -64,12 +62,34 @@ collections:
             hint: "Ex. My Website"
       - label: "Rule Book"
         name: "rule_book"
-        file: "data/_rulebook.yml"
+        file: "_data/rulebook.yml"
         fields:
           - label: "Upload Rule Book"
             name: "url_rulebook"
             widget: "file"
-            media_folder: "assets/rule_book"
+            media_folder: /uploads/files
+            media_library:
+              config:
+                allow_multiple: false
+                choose_url: true
+      - label: "Results"
+        name: "result"
+        file: "_data/result.yml"
+        fields:
+          - label: "Whole Batch Result"
+            name: "url_result"
+            widget: "file"
+            hint: "Upload .csv format of the data. Only .csv is readed. File name should be 'aaroham.csv'."
+            media_folder: /_data
+            media_library:
+              config:
+                allow_multiple: false
+                choose_url: true
+          - label: "Upload .csv file of result"
+            name: "url_pointtable"
+            widget: "file"
+            hint: "Upload .csv format of the data. Only .csv is readed. File name should be 'livepoints.csv'."
+            media_folder: /_data
             media_library:
               config:
                 allow_multiple: false
