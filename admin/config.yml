@@ -5,19 +5,16 @@ backend:
 # when using the default proxy server port
 local_backend: true
 
-
-
-publish_mode: editorial_workflow
 site_url: https://eroyx.tk
 display_url: https://eroyx.tk
-logo_url: https://eroyx.tk/assets/images/cms.png
+logo_url: https://aaroham.netlify.app/assets/logo.png
 
 media_folder: "assets/images"
 collections:
   - label: "Global Site Settings"
     name: "site_config"
     editor:
-      preview: true
+      preview: false
     delete: true
     files:
       - label: "Metadata"
@@ -39,13 +36,18 @@ collections:
             widget: "text"
             required: true
             hint: "This keywords will be appeared on search engines."
-          - label: "Upload a Logo"
+      - label: "Graphic resources"
+        name: "graphic_resources"
+        file: "data/_graphic_resources.yml"
+        fields:
+          - label: "Logo"
             name: "logo"
             widget: "image"
+            media_folder: "assets/images"
+            choose_url: true
+            media_library:
+              config:
+                multiple: false
+                max_file_size: 100000000
             required: true
-            hint: "Upload optimized logo."
-          - label: "Upload a Favicon"
-            name: "favicon"
-            widget: "image"
-            required: false
-            hint: "Upload a optimzed image."
+            hint: "Ex. My Website"
