@@ -1,0 +1,51 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# when using the default proxy server port
+local_backend: true
+
+
+
+publish_mode: editorial_workflow
+site_url: https://aaroham.vercel.app/
+display_url: https://aaroham.vercel.app/
+logo_url: https://eroyx.tk/assets/images/cms.png
+
+media_folder: "assets/images"
+collections:
+  - label: "Global Site Settings"
+    name: "site_config"
+    editor:
+      preview: false
+    delete: false
+    files:
+      - label: "Metadata"
+        name: "metadata"
+        file: "_data/meta-data.yml"
+        fields:
+          - label: "Website Name"
+            name: "name"
+            widget: "string"
+            required: true
+            hint: "Ex. My Website"
+          - label: "Title"
+            name: "title"
+            widget: "string"
+            required: true
+            hint: "Ex. MyWebsite"
+          - label: "Description"
+            name: "description"
+            widget: "text"
+            required: false
+            hint: "This keywords will be appeared on search engines."
+          - label: "Upload a Logo"
+            name: "logo"
+            widget: "image"
+            required: true
+            hint: "Upload optimized logo."
+          - label: "Upload a Favicon"
+            name: "favicon"
+            widget: "image"
+            required: false
+            hint: "Upload a optimzed image."
