@@ -84,7 +84,7 @@ collections:
             hint: "*upload atleast 1280*720 images to get better results."
           - label: "Top Bar Colour"
             name: "accent_color"
-            widget: "image"
+            widget: "color"
             allowInput: true
             required: true
             hint: "*Use your accent colour."
