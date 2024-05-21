@@ -6,6 +6,7 @@ backend:
 local_backend: true
 
 logo_url: https://aaroham.netlify.app/uploads/images/aaroham_logo_color.png
+site_url: https://aaroham.vercel.app
 
 media_folder: "uploads"
 collections:
