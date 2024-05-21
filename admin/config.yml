@@ -49,6 +49,12 @@ collections:
                 max_file_size: 100000000
             required: true
             hint: "Ex. My Website"
+          - label: "Top Bar Colour"
+            name: "accent_color"
+            widget: "color"
+            allowInput: true
+            required: true
+            hint: "*Use your accent colour."
           - label: "Favicon"
             name: "favicon"
             widget: "file"
@@ -82,12 +88,6 @@ collections:
                 max_file_size: 100000000
             required: true
             hint: "*upload atleast 1280*720 images to get better results."
-          - label: "Top Bar Colour"
-            name: "accent_color"
-            widget: "color"
-            allowInput: true
-            required: true
-            hint: "*Use your accent colour."
       - label: "Rule Book"
         name: "rule_book"
         file: "_data/rulebook.yml"
