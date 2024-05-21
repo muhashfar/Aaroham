@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/Made%20In-❤️Kerala-green?style=flat-square">
     <img src="https://img.shields.io/badge/Written%20In-Jekyll-blue?style=flat-square">
 <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhashfar&repo=Aaroham&theme=synthwave">
 </p>
 
 ### [+] Description
