@@ -5,7 +5,7 @@ backend:
 # when using the default proxy server port
 local_backend: true
 
-logo_url: https://aaroham.netlify.app/assets/logo.png
+logo_url: https://aaroham.netlify.app/uploads/images/aaroham_logo_color.png
 
 media_folder: "uploads"
 collections:
@@ -60,6 +60,34 @@ collections:
                 max_file_size: 100000000
             required: true
             hint: "Ex. My Website"
+          - label: "Header & Footer Background"
+            name: "head_foot_background"
+            widget: "image"
+            media_folder: /uploads/images
+            choose_url: true
+            media_library:
+              config:
+                multiple: false
+                max_file_size: 100000000
+            required: true
+            hint: "*upload atleast 1280*720 images to get better results."
+          - label: "Body Background"
+            name: "body_background"
+            widget: "image"
+            media_folder: /uploads/images
+            choose_url: true
+            media_library:
+              config:
+                multiple: false
+                max_file_size: 100000000
+            required: true
+            hint: "*upload atleast 1280*720 images to get better results."
+          - label: "Top Bar Colour"
+            name: "accent_color"
+            widget: "image"
+            allowInput: true
+            required: true
+            hint: "*Use your accent colour."
       - label: "Rule Book"
         name: "rule_book"
         file: "_data/rulebook.yml"

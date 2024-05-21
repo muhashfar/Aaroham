@@ -1,4 +1,4 @@
-<header style="background: url('{{ site.baseurl }}/assets/bg.jpg');background-position: center;background-size: cover;" class="site-header" role="banner">
+<header style="background: url('{{ site.baseurl }}{{ site.data.resources.head_foot_background }}');background-position: center;background-size: cover;border-top: 5px solid {{ site.data.resources.accent_color }};" class="site-header" role="banner">
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
