@@ -123,4 +123,4 @@ collections:
               config:
                 allow_multiple: false
                 choose_url: true
-                
+            
