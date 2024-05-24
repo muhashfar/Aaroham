@@ -1,0 +1,170 @@
+Timestamp,EVENT,CATEGORY,NAME,POSITION,BATCH,POINT
+5/16/2024 14:28:08,Soap carving,Fine arts (സർഗ്ഗം),SREELAKSHMI V,1,RUDHRA,5
+5/16/2024 14:28:31,Soap carving,Fine arts (സർഗ്ഗം),ABDHU,2,EKATHRA,3
+5/16/2024 14:29:21,Soap carving,Fine arts (സർഗ്ഗം),GOURI NANDHANA P,3,ATHARVA,1
+5/16/2024 14:29:40,Rangoli,Fine arts (സർഗ്ഗം),,1,RUDHRA,10
+5/16/2024 14:29:58,Rangoli,Fine arts (സർഗ്ഗം),,2,DHRUVA,6
+5/16/2024 14:30:12,Rangoli,Fine arts (സർഗ്ഗം),,3,ATHARVA,3
+5/16/2024 14:30:41,Short story (മലയാളം),Literary (കൈപ്പട),KRISHNENDU,1,RUDHRA,5
+5/16/2024 14:31:09,Short story (മലയാളം),Literary (കൈപ്പട),ARJUN V,2,DHRUVA,3
+5/16/2024 14:31:37,Short story (മലയാളം),Literary (കൈപ്പട),ANANYA,3,ATHARVA,1
+5/16/2024 14:36:30,Caption this,Literary (കൈപ്പട),ARJUN V,1,DHRUVA,5
+5/16/2024 14:37:10,Caption this,Literary (കൈപ്പട),ANJANA PRADEEP,2,RUDHRA,3
+5/16/2024 14:37:40,Caption this,Literary (കൈപ്പട),KRISHNA,3,EKATHRA,1
+5/16/2024 14:38:16,Embroidary,Fine arts (സർഗ്ഗം),RAESA,1,RUDHRA,5
+5/16/2024 14:38:22,Essay (മലയാളം),Literary (കൈപ്പട),MEENU,1,DHRUVA,5
+5/16/2024 14:39:24,Essay (മലയാളം),Literary (കൈപ്പട),NANDANA RAJESH,2,EKATHRA,3
+5/16/2024 14:39:56,Essay (മലയാളം),Literary (കൈപ്പട),MEENAKSHY A R,3,ATHARVA,1
+5/16/2024 14:41:26,Versification (മലയാളം),Literary (കൈപ്പട),MEENU,1,DHRUVA,4
+5/16/2024 14:42:09,Versification (മലയാളം),Literary (കൈപ്പട),KRISHNENDU,1,RUDHRA,4
+5/16/2024 14:42:20,Haiku (മലയാളം),Literary (കൈപ്പട),ARJUN V,1,DHRUVA,5
+5/16/2024 14:42:40,Versification (മലയാളം),Literary (കൈപ്പട),MALAVIKA,2,ATHARVA,1
+5/16/2024 14:43:19,Versification (മലയാളം),Literary (കൈപ്പട),VINAYA,3,EKATHRA,0
+5/16/2024 14:43:47,Versification (عربي),Literary (കൈപ്പട),UNAIS,1,RUDHRA,5
+5/16/2024 14:44:26,Haiku (മലയാളം),Literary (കൈപ്പട),KRISHNENDU,2,RUDHRA,3
+5/16/2024 14:44:28,Versification (عربي),Literary (കൈപ്പട),ANJALY,2,DHRUVA,3
+5/16/2024 14:51:00,Haiku (മലയാളം),Literary (കൈപ്പട),BHADRA,3,EKATHRA,1
+5/16/2024 14:57:07,Versification (عربي),Literary (കൈപ്പട),ISHA,3,EKATHRA,1
+5/16/2024 14:58:17,Short story (عربي),Literary (കൈപ്പട),UNAIS,1,RUDHRA,5
+5/16/2024 14:59:05,Short story (عربي),Literary (കൈപ്പട),NIDHA,2,ATHARVA,3
+5/16/2024 15:00:49,Essay (عربي),Literary (കൈപ്പട),UNAIS,1,RUDHRA,5
+5/16/2024 15:01:19,Essay (عربي),Literary (കൈപ്പട),NIDHA,2,ATHARVA,3
+5/16/2024 15:02:00,Essay (عربي),Literary (കൈപ്പട),ISHA,3,EKATHRA,1
+5/16/2024 15:02:41,Versification (English),Literary (കൈപ്പട),NAMRATA,1,DHRUVA,5
+5/16/2024 15:03:27,Versification (English),Literary (കൈപ്പട),ABDHU,2,EKATHRA,3
+5/16/2024 15:04:47,Versification (English),Literary (കൈപ്പട),ANJANA RAJU,3,RUDHRA,0.5
+5/16/2024 15:05:28,Versification (English),Literary (കൈപ്പട),AKSHAYA,3,ATHARVA,0.5
+5/16/2024 16:23:13,Movie review (മലയാളം),Literary (കൈപ്പട),KRISHNENDU,1,RUDHRA,5
+5/16/2024 16:23:40,Movie review (മലയാളം),Literary (കൈപ്പട),MEENAKSHY AR,2,ATHARVA,3
+5/16/2024 16:24:07,Movie review (മലയാളം),Literary (കൈപ്പട),ADITHYA S NAIR,3,EKATHRA,1
+5/16/2024 16:25:22,Movie review (English),Literary (കൈപ്പട),NANDANA SREEKUMAR,1,ATHARVA,5
+5/16/2024 16:25:44,Movie review (English),Literary (കൈപ്പട),ANJALY,2,DHRUVA,3
+5/16/2024 16:26:11,Movie review (English),Literary (കൈപ്പട),ANJANA PRADEEP,3,RUDHRA,1
+5/16/2024 16:27:07,Essay (हिंदी),Literary (കൈപ്പട),AANCHAL,1,EKATHRA,5
+5/16/2024 16:27:26,Essay (हिंदी),Literary (കൈപ്പട),AKSHAYA,2,ATHARVA,3
+5/16/2024 16:27:54,Essay (हिंदी),Literary (കൈപ്പട),ARCHITA,3,RUDHRA,0.5
+5/16/2024 16:28:13,Essay (हिंदी),Literary (കൈപ്പട),SAKSHAM,3,DHRUVA,0.5
+5/16/2024 16:29:01,Short Story (हिंदी),Literary (കൈപ്പട),SAKSHAM ,1,DHRUVA,5
+5/16/2024 16:29:25,Short Story (हिंदी),Literary (കൈപ്പട),ARCHITA,2,RUDHRA,3
+5/16/2024 16:29:50,Short Story (हिंदी),Literary (കൈപ്പട),HIMANSHI,3,EKATHRA,1
+5/16/2024 17:21:39,Embroidary,Fine arts (സർഗ്ഗം),NASRIN,2,EKATHRA,3
+5/16/2024 17:22:29,Embroidary,Fine arts (സർഗ്ഗം),RITHIKA,3,ATHARVA,1
+5/16/2024 17:25:31,Short story (English),Literary (കൈപ്പട),ANJANA PRADEEP,1,RUDHRA,5
+5/16/2024 17:25:52,Short story (English),Literary (കൈപ്പട),PRIYANJALI,2,EKATHRA,3
+5/16/2024 17:26:11,Short story (English),Literary (കൈപ്പട),NAMRATA,3,DHRUVA,1
+5/16/2024 17:58:39,Short story (عربي),Literary (കൈപ്പട),ANJALY,3,DHRUVA,1
+5/21/2024 1:15:37,Face painting,Fine arts (സർഗ്ഗം),,1,RUDHRA,10
+5/21/2024 1:15:58,Face painting,Fine arts (സർഗ്ഗം),,2,ATHARVA,6
+5/21/2024 1:16:17,Face painting,Fine arts (സർഗ്ഗം),,3,DHRUVA,3
+5/21/2024 1:16:37,Mehandi,Fine arts (സർഗ്ഗം),,1,EKATHRA,10
+5/21/2024 1:17:03,Mehandi,Fine arts (സർഗ്ഗം),,2,DHRUVA,6
+5/21/2024 1:17:31,Mehandi,Fine arts (സർഗ്ഗം),,3,RUDHRA,3
+5/21/2024 1:17:59,JAM sketch,Fine arts (സർഗ്ഗം),,1,RUDHRA,10
+5/21/2024 1:18:20,JAM sketch,Fine arts (സർഗ്ഗം),,2,DHRUVA,6
+5/21/2024 1:18:38,JAM sketch,Fine arts (സർഗ്ഗം),,3,ATHARVA,3
+5/21/2024 1:19:02,Poster making,Fine arts (സർഗ്ഗം),SREELAKSHMI V ,1,RUDHRA,5
+5/21/2024 1:19:31,Poster making,Fine arts (സർഗ്ഗം),ABDHU,2,EKATHRA,3
+5/21/2024 1:20:04,Poster making,Fine arts (സർഗ്ഗം),GOURI NANDHANA P,3,ATHARVA,1
+5/21/2024 1:20:34,Caricature,Fine arts (സർഗ്ഗം),SREELAKSHMI V,1,RUDHRA,5
+5/21/2024 1:20:57,Caricature,Fine arts (സർഗ്ഗം),JYOTSNA,2,ATHARVA,3
+5/21/2024 1:21:21,Caricature,Fine arts (സർഗ്ഗം),ANANDU P,3,DHRUVA,1
+5/21/2024 1:21:43,Creative drawing,Fine arts (സർഗ്ഗം),,1,EKATHRA,10
+5/21/2024 1:22:10,Creative drawing,Fine arts (സർഗ്ഗം),,2,RUDHRA,6
+5/21/2024 1:22:29,Creative drawing,Fine arts (സർഗ്ഗം),,3,ATHARVA,3
+5/21/2024 1:22:56,Cartoon,Fine arts (സർഗ്ഗം),JAYAKRISHNAN,1,RUDHRA,5
+5/21/2024 1:23:26,Cartoon,Fine arts (സർഗ്ഗം),GOURI NANDHANA P,2,ATHARVA,3
+5/21/2024 1:23:57,Cartoon,Fine arts (സർഗ്ഗം),ARJUN V,3,DHRUVA,1
+5/21/2024 1:24:42,Collage,Fine arts (സർഗ്ഗം),ARJUN V ,1,DHRUVA,5
+5/21/2024 1:25:13,Collage,Fine arts (സർഗ്ഗം),SREELAKSHMI V,2,RUDHRA,3
+5/21/2024 1:25:52,Collage,Fine arts (സർഗ്ഗം),DRISHYA,3,EKATHRA,1
+5/21/2024 1:26:10,Digital poster making,Fine arts (സർഗ്ഗം),ASHFAR,1,RUDHRA,5
+5/21/2024 1:26:37,Digital poster making,Fine arts (സർഗ്ഗം),ANANDU P,2,DHRUVA,3
+5/21/2024 1:27:02,Digital poster making,Fine arts (സർഗ്ഗം),PRIYANJALI,3,EKATHRA,1
+5/21/2024 1:27:34,Photography,Fine arts (സർഗ്ഗം),GOUTHAM,1,DHRUVA,5
+5/21/2024 1:27:55,Photography,Fine arts (സർഗ്ഗം),JAYAKRISHNAN,2,RUDHRA,3
+5/21/2024 1:28:13,Photography,Fine arts (സർഗ്ഗം),GOURI ,3,EKATHRA,1
+5/21/2024 1:30:01,Pencil drawing,Fine arts (സർഗ്ഗം),NAMRATA,1,DHRUVA,5
+5/21/2024 1:30:22,Pencil drawing,Fine arts (സർഗ്ഗം),NASRIN,2,EKATHRA,3
+5/21/2024 1:30:44,Pencil drawing,Fine arts (സർഗ്ഗം),RITHIKA,3,ATHARVA,1
+5/21/2024 1:31:11,Portrait,Fine arts (സർഗ്ഗം),RITHIKA,1,ATHARVA,5
+5/21/2024 1:31:33,Portrait,Fine arts (സർഗ്ഗം),ANANDU P ,2,DHRUVA,3
+5/21/2024 1:32:01,Portrait,Fine arts (സർഗ്ഗം),AARSHITHA,3,EKATHRA,1
+5/21/2024 1:32:22,Water colouring,Fine arts (സർഗ്ഗം),RITHIKA,1,ATHARVA,5
+5/21/2024 1:32:55,Water colouring,Fine arts (സർഗ്ഗം),ARATHY,2,DHRUVA,3
+5/21/2024 1:33:21,Water colouring,Fine arts (സർഗ്ഗം),SREELAKSHMI V,3,RUDHRA,1
+5/22/2024 19:08:17,Clay modelling,Fine arts (സർഗ്ഗം),ANJANA,1,ATHARVA,5
+5/22/2024 19:08:53,Clay modelling,Fine arts (സർഗ്ഗം),SREELAKSHMI V ,2,RUDHRA,1.5
+5/22/2024 19:09:11,Clay modelling,Fine arts (സർഗ്ഗം),ADITHYA,2,EKATHRA,1.5
+5/22/2024 19:09:29,Clay modelling,Fine arts (സർഗ്ഗം),ANANDU P,3,DHRUVA,1
+5/24/2024 16:30:57,Glass painting,Fine arts (സർഗ്ഗം),RITHIKA,1,ATHARVA,5
+5/24/2024 16:31:19,Glass painting,Fine arts (സർഗ്ഗം),PRIYANJALI,2,EKATHRA,3
+5/24/2024 16:31:44,Glass painting,Fine arts (സർഗ്ഗം),SREELAKSHMI V,3,RUDHRA,1
+5/24/2024 16:32:14,Bottle art,Fine arts (സർഗ്ഗം),SWATI,1,ATHARVA,5
+5/24/2024 16:33:13,Bottle art,Fine arts (സർഗ്ഗം),SREELAKSHMI V ,2,RUDHRA,2
+5/24/2024 16:33:35,Bottle art,Fine arts (സർഗ്ഗം),NAMRATA,2,DHRUVA,2
+5/24/2024 16:34:52,Bottle art,Fine arts (സർഗ്ഗം),NASRIN,3,EKATHRA,0
+5/24/2024 16:35:24,Versification (हिंदी),Literary (കൈപ്പട),SAKSHAM,1,DHRUVA,5
+5/24/2024 16:35:45,Versification (हिंदी),Literary (കൈപ്പട),ARCHITA,2,RUDHRA,3
+5/24/2024 16:36:24,Versification (हिंदी),Literary (കൈപ്പട),GOURI NANDHANA S ,3,ATHARVA,0.5
+5/24/2024 16:37:14,Versification (हिंदी),Literary (കൈപ്പട),MUSKAN,3,EKATHRA,0.5
+5/24/2024 16:38:41,Haiku (English),Literary (കൈപ്പട),KRISHNA,1,EKATHRA,5
+5/24/2024 16:39:09,Haiku (English),Literary (കൈപ്പട),ANJANA PRADEEP,2,RUDHRA,3
+5/24/2024 16:39:57,Haiku (English),Literary (കൈപ്പട),NAMRATA,3,DHRUVA,1
+5/24/2024 16:40:18,Graffiti,Fine arts (സർഗ്ഗം),,1,RUDHRA,10
+5/24/2024 16:40:37,Graffiti,Fine arts (സർഗ്ഗം),,2,DHRUVA,6
+5/24/2024 16:41:04,Graffiti,Fine arts (സർഗ്ഗം),,3,ATHARVA,3
+5/24/2024 16:43:37,Samasyapooranam,Literary (കൈപ്പട),ARCHITA ,1,RUDHRA,5
+5/24/2024 16:46:00,Samasyapooranam,Literary (കൈപ്പട),GOURI NANDANA P,2,ATHARVA,3
+5/24/2024 16:46:40,Samasyapooranam,Literary (കൈപ്പട),ASHWINI M,3,DHRUVA,1
+5/24/2024 16:47:37,Book review (English),Literary (കൈപ്പട),ANJANA PRADEEP,1,RUDHRA,5
+5/24/2024 16:48:00,Book review (English),Literary (കൈപ്പട),MEENAKSHY AR,2,ATHARVA,3
+5/24/2024 16:48:47,Book review (English),Literary (കൈപ്പട),SREELAKSHMI J ,3,DHRUVA,1
+5/24/2024 16:50:22,Versification (संस्कृत),Literary (കൈപ്പട),ARCHITA ,1,RUDHRA,5
+5/24/2024 16:50:52,Versification (संस्कृत),Literary (കൈപ്പട),ASHWINI M ,2,DHRUVA,3
+5/24/2024 16:51:31,Versification (संस्कृत),Literary (കൈപ്പട),KRISHNA,3,EKATHRA,1
+5/24/2024 16:53:45,Short story (संस्कृत),Literary (കൈപ്പട),ASHWINI M,1,DHRUVA,5
+5/24/2024 16:54:13,Short story (संस्कृत),Literary (കൈപ്പട),ARCHITA,2,RUDHRA,3
+5/24/2024 16:55:03,Short story (संस्कृत),Literary (കൈപ്പട),GOWRI,3,EKATHRA,1
+5/24/2024 16:55:23,Essay (संस्कृत),Literary (കൈപ്പട),ASHWINI M,1,DHRUVA,5
+5/24/2024 16:55:50,Essay (संस्कृत),Literary (കൈപ്പട),ARCHITA,2,RUDHRA,3
+5/24/2024 16:56:16,Essay (संस्कृत),Literary (കൈപ്പട),SHRUTHIKA,3,ATHARVA,0.5
+5/24/2024 16:56:58,Essay (संस्कृत),Literary (കൈപ്പട),GOWRI,3,EKATHRA,0.5
+5/24/2024 18:51:40,Oil painting,Fine arts (സർഗ്ഗം),ARATHY,2,DHRUVA,3
+5/24/2024 18:52:04,Oil painting,Fine arts (സർഗ്ഗം),SREELAKSHMI V ,3,RUDHRA,1
+5/24/2024 18:52:24,Essay (English),Literary (കൈപ്പട),ANJANA PRADEEP,1,RUDHRA,5
+5/24/2024 18:53:34,Essay (English),Literary (കൈപ്പട),NAMRATA,2,DHRUVA,3
+5/24/2024 18:53:59,Essay (English),Literary (കൈപ്പട),ZEHAN,3,EKATHRA,1
+5/24/2024 21:25:24,Eloucation (English),Oratory (കൊളാമ്പി),AKSHAYA ,1,ATHARVA,5
+5/24/2024 21:26:27,Eloucation (English),Oratory (കൊളാമ്പി),SOORYA,2,DHRUVA,3
+5/24/2024 21:28:21,Eloucation (English),Oratory (കൊളാമ്പി),EVANGILIN ,3,RUDHRA,1
+5/24/2024 21:29:27,Extempore (English),Oratory (കൊളാമ്പി),ALIYAH,1,DHRUVA,5
+5/24/2024 21:30:59,Extempore (English),Oratory (കൊളാമ്പി),EVANGILIN ,2,RUDHRA,3
+5/24/2024 21:31:58,Extempore (English),Oratory (കൊളാമ്പി),AKSHAYA,3,ATHARVA,0.5
+5/24/2024 21:32:06,Eloucation (മലയാളം),Oratory (കൊളാമ്പി),Ananya,1,DHRUVA,5
+5/24/2024 21:32:15,Recitation (हिंदी),Oratory (കൊളാമ്പി),Nynka,1,DHRUVA,5
+5/24/2024 21:32:37,Extempore (English),Oratory (കൊളാമ്പി),ISHA,3,EKATHRA,0.5
+5/24/2024 21:32:59,Eloucation (മലയാളം),Oratory (കൊളാമ്പി),Meenakshi,2,ATHARVA,3
+5/24/2024 21:33:19,Recitation (हिंदी),Oratory (കൊളാമ്പി),Architha,2,RUDHRA,2
+5/24/2024 21:33:36,Eloucation (മലയാളം),Oratory (കൊളാമ്പി),Gouri Krishna ,3,RUDHRA,1
+5/24/2024 21:33:59,Recitation (हिंदी),Oratory (കൊളാമ്പി),Aathira,2,ATHARVA,2
+5/24/2024 21:34:25,Debate (English),Oratory (കൊളാമ്പി),,1,DHRUVA,10
+5/24/2024 21:34:38,Extempore (മലയാളം),Oratory (കൊളാമ്പി),Pranav ,1,RUDHRA,5
+5/24/2024 21:34:55,Extempore (हिंदी),Oratory (കൊളാമ്പി),Architha,1,RUDHRA,5
+5/24/2024 21:34:59,Debate (English),Oratory (കൊളാമ്പി),,2,RUDHRA,6
+5/24/2024 21:35:27,Extempore (മലയാളം),Oratory (കൊളാമ്പി),Meenakshi,2,ATHARVA,3
+5/24/2024 21:35:36,Debate (English),Oratory (കൊളാമ്പി),,3,ATHARVA,3
+5/24/2024 21:35:46,Extempore (हिंदी),Oratory (കൊളാമ്പി),Sreehari,2,DHRUVA,3
+5/24/2024 21:36:03,Extempore (മലയാളം),Oratory (കൊളാമ്പി),Ananya,3,DHRUVA,1
+5/24/2024 21:36:22,Extempore (हिंदी),Oratory (കൊളാമ്പി),Akhil,3,ATHARVA,1
+5/24/2024 21:36:51,Debate (മലയാളം),Oratory (കൊളാമ്പി),,1,DHRUVA,10
+5/24/2024 21:37:14,Debate (മലയാളം),Oratory (കൊളാമ്പി),,2,RUDHRA,6
+5/24/2024 21:37:19,Eloucation (हिंदी),Oratory (കൊളാമ്പി),Sneha,1,DHRUVA,5
+5/24/2024 21:37:37,Debate (മലയാളം),Oratory (കൊളാമ്പി),,3,ATHARVA,3
+5/24/2024 21:37:58,Eloucation (हिंदी),Oratory (കൊളാമ്പി),Architha,2,RUDHRA,3
+5/24/2024 21:38:33,Eloucation (हिंदी),Oratory (കൊളാമ്പി),Gouri nandana,3,ATHARVA,1
+5/24/2024 21:39:47,Recitation (മലയാളം),Oratory (കൊളാമ്പി),Aiswarya BR,1,DHRUVA,5
+5/24/2024 21:40:30,Recitation (മലയാളം),Oratory (കൊളാമ്പി),Malavika lakshmi,2,ATHARVA,3
+5/24/2024 21:41:14,Recitation (മലയാളം),Oratory (കൊളാമ്പി),Shreya,3,EKATHRA,1
+5/24/2024 21:42:39,Recitation (English),Oratory (കൊളാമ്പി),Gayathri sunil,1,ATHARVA,5
+5/24/2024 21:43:47,Recitation (English),Oratory (കൊളാമ്പി),Aliya,2,DHRUVA,3
+5/24/2024 21:44:31,Recitation (English),Oratory (കൊളാമ്പി),Evangilin,3,RUDHRA,1
