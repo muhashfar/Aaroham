@@ -1,15 +1,14 @@
 ---
 ---
 [
-  {% for row in site.data.aaroham %}
+  {% for item in site.result %}
     {
 
-      "title"    : "{{ row['NAME'] }}",
-      "event"    : "{{ row['EVENT'] }}",
-      "position"      : "{{ row['POSITION'] }}",
-      "batch"      : "{{ row['BATCH'] }}",
-      "point"      : "{{ row['POINT'] }}"
-
+      "title" : "{{ item.NAME }}",
+      "event" : "{{ item.EVENT }}",
+      "position" : "{{ item.POSITION }}",
+      "batch" : "{{ item.BATCH }}",
+      "point" : "{{ item.POINT }}"
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
