@@ -50,3 +50,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+csv:
+  result:
+    source: https://docs.google.com/spreadsheets/d/e/2PACX-1vR59Rgvj4wIWr6wC5JtCR9sepR01Th8bA02In4KS_Rs87XZt3A8GBCO1fJjMD1V5KPyUwIjuABmJSbH/pub?gid=502734800&single=true&output=csv
